@@ -1,0 +1,1 @@
+const { exec } = require("child_process"); exec("wall \"HEY, $USER! I AM HERE!!!\"")
